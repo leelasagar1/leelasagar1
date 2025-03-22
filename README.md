@@ -5,7 +5,7 @@
 ---
 
 ## 🔥 Key Highlights
-- **4+ Years of Experience** in Data Engineering.
+- **5+ Years of Experience** in Data Engineering.
 - Expertise in **Big Data Tools**: Apache Spark, Kafka.
 - Proficient in **Cloud Platforms**: Azure, GCP.
 - Skilled in **Programming**: Python, SQL.
